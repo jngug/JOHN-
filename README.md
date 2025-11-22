@@ -4,6 +4,13 @@ Hi there I'm John very much interested to learn more about coding
 ## Deploying this site to Netlify
 
 There are two easy ways to deploy this project on Netlify:
+Ran terminal command: rm -f /workspaces/JOHN-/#style.css
+
+
+**Production URL:**  
+https://brick-business-website-project.netlify.app
+
+You can submit this link to your instructor or Google Classroom. If you need to redeploy, just update your files and repeat the deploy command. Let me know if you need anything else!
 
 1. Manual (UI)
 	- Go to https://app.netlify.com and sign in/sign up.
